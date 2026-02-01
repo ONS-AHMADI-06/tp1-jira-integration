@@ -5,3 +5,4 @@ Projet de test pour l’intégration GitHub et Jira.
 
 ## Diagramme d’architecture
 ![Diagramme](docs/architecture.puml)
+- Test liaison Jira
